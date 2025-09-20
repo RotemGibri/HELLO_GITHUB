@@ -1,1 +1,1 @@
-print("HELLOW GITHAB")
+print("שלום גיטהאב")
